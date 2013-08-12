@@ -26,9 +26,9 @@ a {
     text-transform: uppercase;
     margin: 10px 0 20px 0; }
     .sidebar .name #fname {
-      padding-left: 1px;
+      padding-left: 0px;
       font-size: 23px;
-      letter-spacing: 5px;
+      letter-spacing: 4.98px;
       color: black; }
     .sidebar .name #lname {
       font-size: 17px;
