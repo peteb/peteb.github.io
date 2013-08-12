@@ -4,9 +4,8 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
-url: http://zachholman.com
+name: Peter Backman
+url: http://peteb.github.io
 description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
-gravatar_url: http://gravatar.com/avatar/6f63cde8b16b035280ca615f621a6c8c
+github: peteb
+gravatar_url: http://gravatar.com/avatar/d9254d4d89316830d776a5eb104d1075
