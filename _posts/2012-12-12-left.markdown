@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: Left
-=======
 title: Left is my new theme!
->>>>>>> gh-pages
 category: posts
 ---
 
