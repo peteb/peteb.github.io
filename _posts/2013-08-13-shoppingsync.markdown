@@ -12,7 +12,7 @@ you can also access your lists on the Web and from your desktop on Mac.
 The syncing functionality is designed to work for collaborating on
 lists; marking, adding and deleting items happen on all
 devices in realtime. That's a handy feature when you're more than one
-doing the shopping, and if you manage the shopping all on your own 
+doing the shopping, and if you manage the shopping on your own 
 you can now access your list basically wherever you are.
 
 Sharing a list is super easy, there's no need to register an account
