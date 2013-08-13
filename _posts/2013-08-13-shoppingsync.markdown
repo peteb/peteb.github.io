@@ -34,7 +34,10 @@ Some technical information:
  REST-ful API
  - Server is implemented using Java EE Servlets running in GlassFish
  on EC2
- 
+
+And here's the server's uptime:
+
+<center><img src="https://share.pingdom.com/banners/7fb1038e" /></center>
 
 ---
 
