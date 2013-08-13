@@ -2,6 +2,7 @@
 layout: post
 title: "Introducing: Shopping Sync"
 category: posts
+comments: true
 ---
 
 This is an app that I've been working on for a little bit over a month
@@ -16,7 +17,7 @@ doing the shopping, and if you manage the shopping on your own
 you can now access your list basically wherever you are.
 
 Sharing a list is super easy, there's no need to register an account
-or remember any passwords. I *hate* passwords.
+or remember any passwords. Don't you just *hate* passwords?
 
 <center><img src="/images/shopping_sync_iOS.png" width="207" height="417" /></center>
 
