@@ -10,7 +10,7 @@ now, an app that I can't wait to use myself! It's a grocery
 list/shopping list app that syncs across iOS and Android devices, and
 you can also access your lists on the Web and from your desktop on Mac.
 
-The syncing functionality is designed to work for collaborating on
+The syncing functionality is designed for collaborating on
 lists; marking, adding and deleting items happen on all
 devices in realtime. That's a handy feature when you're more than one
 doing the shopping, and if you manage the shopping on your own 
