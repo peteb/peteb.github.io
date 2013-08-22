@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing: Shopping Sync"
+title: "Introducing: Snuglist"
 category: posts
 comments: true
 ---
