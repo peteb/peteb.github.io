@@ -1,0 +1,16 @@
+---
+layout: post
+title: Snuglist v0.9
+category: posts
+---
+
+Progress on the Snuglist front! The first official release is underway and is estimated to be completely done in about two weeks. The iOS app is live on the App Store and
+the companion webpage is shaping up nicely.
+
+* iPhone and iPod touch ([App Store](https://itunes.apple.com/us/app/snuglist/id690452898))
+* Webpage ([snuglist.iostream.cc](http://snuglist.iostream.cc))
+* Android (coming soon)
+* Mac OS X (coming soon)
+
+
+
